@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Luox Energy provides dynamic electricity tariffs and direct marketing services for businesses and private customers in Germany. Their platform offers real‑time market‑based revenue calculations for photovoltaic, wind, and battery storage projects, as well as dynamic RLM tariffs for industrial clients. The company emphasizes transparent pricing, automated offer generation, and a customer portal for managing contracts and monitoring energy sales.
+Luox Energy provides dynamic electricity tariffs and direct marketing services for commercial and residential customers in Germany. Their platform enables businesses to sell surplus photovoltaic and wind power directly on the electricity market, offering real‑time price calculations and revenue forecasts. The company also offers dynamic tariff models for industrial and small‑business consumers, integrating battery storage options and renewable energy management. Luox Energy’s services aim to increase transparency and profitability for energy producers and consumers alike.
 
-**Areas:** Energy · Renewable · Electricity · Tariffs · DirectMarketing
+**Areas:** Company · Energy · Renewable · Tariffs · DirectMarketing
 
 ## Luox Energy on APIs.io
 
@@ -74,7 +74,7 @@ Everything profiled for Luox Energy is published on APIs.io rather than in this 
 
 ### APIs (1)
 
-- [Luox Energy API](https://apis.io/apis/luox-energy/luox-energy-api/) — Provides endpoints for dynamic electricity tariffs, direct marketing calculations and energy market data as described in the developer portal.
+- [Luox Energy API](https://apis.io/apis/luox-energy/luox-energy-api/) — Luox Energy does not publish a public API; their platform is accessed via web portals and private integrations.
 
 ### Published properties
 
@@ -91,14 +91,11 @@ Authentication, trust centre, and vulnerability disclosure.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://luox-energy.de/)
-- [Documentation](https://www.luox-energy.de/wissen)
-- [Blog](https://www.luox-energy.de/magazin)
-- [Terms of service](https://www.luox-energy.de/impressum)
 - [Privacy policy](https://www.luox-energy.de/datenschutz)
 
 ## API Evangelist rating
 
-**Kin Score 12.4** — emerging · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 7.1** — minimal · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
@@ -106,10 +103,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 21.4 |
-| Access clarity | 17.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 10.5 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 6.0** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -124,7 +121,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -136,7 +133,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 6.6** — Energy & Utilities
+**Regulatory alignment 8.2** — Energy & Utilities
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/luox-energy/](https://apis.io/providers/luox-energy/).
 
